@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/karz-te-portfolio-page1/static/css/main.47655a86.css",
+    "main.js": "/karz-te-portfolio-page1/static/js/main.213f57f1.js",
+    "static/js/453.acca0757.chunk.js": "/karz-te-portfolio-page1/static/js/453.acca0757.chunk.js",
+    "index.html": "/karz-te-portfolio-page1/index.html",
+    "main.47655a86.css.map": "/karz-te-portfolio-page1/static/css/main.47655a86.css.map",
+    "main.213f57f1.js.map": "/karz-te-portfolio-page1/static/js/main.213f57f1.js.map",
+    "453.acca0757.chunk.js.map": "/karz-te-portfolio-page1/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47655a86.css",
+    "static/js/main.213f57f1.js"
+  ]
+}
